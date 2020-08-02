@@ -1,6 +1,4 @@
-### Hi, I'm Anneliese 👋🏼
-
-I'm Anneliese! 👩🏽‍💻
+### Hi, I'm Anneliese 👋🏼 👩🏽‍💻
 
 <!--
 **anhern/anhern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
